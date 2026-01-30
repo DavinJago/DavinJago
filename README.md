@@ -1,5 +1,6 @@
 # About Me:
-* Currently learning Python & C++.  <br> * Building skills step by step.  
+* Currently learning Python & C++.
+* Building skills step by step.  
 
 
 # 💻 Tech Stack:
