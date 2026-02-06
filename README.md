@@ -1,4 +1,4 @@
-## About Me :
+## 
 * Currently learning Python & C++
 * Building skills step by step
 
