@@ -1,6 +1,6 @@
 ## 🌱 Learning Web Development
 * Currently learning Python & C++
-* Wish to learn flutter
+* Hopefully I’ll become good at Flutter soon
 * Progress over perfection
 
 ## Tech Stack 
