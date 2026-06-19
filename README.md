@@ -1,5 +1,5 @@
 ## Learning Web Development 🌐
-* former multimedia editor shifting career to programming
+* former multimedia editor shifting to programmer
 * progress over perfection
 * currently learning fundamental smth
 
